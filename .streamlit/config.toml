@@ -1,0 +1,13 @@
+[theme]
+# Cor principal (Botões, Seleções nos Filtros, Links)
+primaryColor = "#00A868"
+
+# Cor do Fundo da página (Preto)
+backgroundColor = "#FFF"
+
+
+# Cor do Texto (Branco/Cinza Claro)
+textColor = "#000"
+
+# Fonte (opcional, mas Sans serif fica mais moderno)
+font = "sans serif"
